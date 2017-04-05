@@ -1,0 +1,19 @@
+Carry out all these commands from within this directory. 
+Moving from this directory and trying to run the files 
+will cause an error.
+
+To compile the java package
+  javac cs380/othello/Test.java
+
+To run the Test.java file
+  java cs380.othello.Test 5
+  
+  The value 5 in this command line above refers to the depth limit for the 
+  minimax implementation and any reasonable int value can be used in place to 
+  set the depth limit value for the minimax player object.
+
+To open my minimax implementation, open symlink
+  less minimax_implementation
+
+Player 0 wins when the score of the final state is a positive value
+Player 1 wins when the score of the final state is a negative value

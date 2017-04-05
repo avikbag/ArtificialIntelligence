@@ -1,0 +1,20 @@
+---------------------------------------
+----------- Solved using A* -----------
+---------------------------------------
+------------ Initial State ------------
+ 1  -1  -1   1   1  
+ 1   0   3   4   1  
+ 1   0   2   2   1  
+ 1   1   1   1   1  
+---------------------------------------
+------------ Solution State -----------
+ 1   2   2   1   1  
+ 1   0   0   3   1  
+ 1   0   0   4   1  
+ 1   1   1   1   1  
+------ Moves to reach solution --------
+Element: 2 Move: LEFT
+Element: 4 Move: DOWN
+Element: 3 Move: RIGHT
+Element: 2 Move: UP
+Element: 2 Move: UP

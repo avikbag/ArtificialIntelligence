@@ -1,0 +1,55 @@
+---------------------------------------
+----------- Solved using A* -----------
+---------------------------------------
+------------ Initial State ------------
+ 1   1   1   1   1   1  
+ 1   0   3   2   2   1  
+ 1   0   3   4   5   1  
+-1   6   6   7   8   1  
+ 1   1   1   1   1   1  
+---------------------------------------
+------------ Solution State -----------
+ 1   1   1   1   1   1  
+ 1   3   4   5   8   1  
+ 1   3   0   0   7   1  
+ 2   2   0   0   6   1  
+ 1   1   1   1   1   1  
+------ Moves to reach solution --------
+Element: 3 Move: LEFT
+Element: 2 Move: LEFT
+Element: 5 Move: UP
+Element: 8 Move: UP
+Element: 7 Move: RIGHT
+Element: 6 Move: RIGHT
+Element: 6 Move: LEFT
+Element: 7 Move: LEFT
+Element: 8 Move: DOWN
+Element: 6 Move: LEFT
+Element: 7 Move: LEFT
+Element: 8 Move: LEFT
+Element: 7 Move: UP
+Element: 8 Move: LEFT
+Element: 5 Move: DOWN
+Element: 5 Move: DOWN
+Element: 8 Move: RIGHT
+Element: 7 Move: DOWN
+Element: 4 Move: RIGHT
+Element: 2 Move: DOWN
+Element: 4 Move: UP
+Element: 5 Move: UP
+Element: 8 Move: RIGHT
+Element: 7 Move: RIGHT
+Element: 6 Move: RIGHT
+Element: 4 Move: LEFT
+Element: 5 Move: UP
+Element: 8 Move: UP
+Element: 7 Move: RIGHT
+Element: 6 Move: RIGHT
+Element: 4 Move: LEFT
+Element: 5 Move: LEFT
+Element: 8 Move: UP
+Element: 7 Move: UP
+Element: 6 Move: RIGHT
+Element: 2 Move: DOWN
+Element: 2 Move: LEFT
+Element: 2 Move: LEFT

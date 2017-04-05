@@ -1,0 +1,5 @@
+g++ -std=c++11 main_partA.cpp -o partA
+./partA
+g++ -std=c++11 main_partB.cpp -o partB
+./partB
+
